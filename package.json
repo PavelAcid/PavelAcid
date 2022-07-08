@@ -1,0 +1,21 @@
+{
+  "name": "cryptochance",
+  "version": "1.0.0",
+  "description": "game for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "telegram"
+  ],
+  "author": "Poul Naum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-telegram-bot-api": "^0.58.0",
+    "telegraf": "^4.8.5"
+  }
+}
